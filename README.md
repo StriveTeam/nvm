@@ -1,3 +1,6 @@
+
+###nvm是管理Node.js版本的工具，它支持在多个Node.js版本间切换
+
 #直接下载一个nvm 然后安装，然后 命令行输入 
 
 1.nvm list available（显示远端所有可用的node版本）
